@@ -9,6 +9,16 @@
 
 #### 3.1 Terraform 
 
+##### 3.1.1 Definición 
+
+##### 3.1.2 Características Principales
+
++ HashiCorp Configuration Language
++ Plan de Ejecución
++ Gestión Estatal
++ Proveedores
++ Gráfico de Recursos 
+
 #### 3.2 Ansible 
 
 #### 3.3 Rabbit 
