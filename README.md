@@ -77,10 +77,11 @@
 
 <strong>Figura 13.</strong> Verificación de la Instalación de la CLI de AWS desde el cmd.
 
-+ Para este paso, no permitió la creación del nuevo usuario. La página de AWS bloquea las cookies de terceros. Motivo por el cual, no fue posible realizar la primera confinuración de Terraform. Únicamente se logró llegar a este paso. 
++ Para este paso, no permitió la creación del nuevo usuario. La página de AWS bloquea las cookies de terceros. Motivo por el cual, no fue posible realizar la primera configuración de Terraform. Únicamente se logró llegar a este paso. 
 
 <img width="696" height="604" alt="image" src="https://github.com/user-attachments/assets/70894688-60f9-4c21-9d70-d5e1c369fb36" /></br>
 
+<strong>Figura 14.</strong> Crear una nueva cuenta en AWS.
 
 
 
