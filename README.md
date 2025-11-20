@@ -35,7 +35,7 @@
 
 <img width="580" height="99" alt="image" src="https://github.com/user-attachments/assets/176e28f4-0803-4711-932e-72c23bd3f63f" /></br>
 
-<strong>Figura 3.</strong> Instalación de quemu.
+<strong>Figura 3.</strong> Visualización del contenido de la carpeta.
 
 <img width="409" height="482" alt="image" src="https://github.com/user-attachments/assets/03d31a1c-dd44-4317-bf21-e3841b9bdcaa" /></br>
 
