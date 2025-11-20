@@ -95,7 +95,9 @@
 + Automatización sin agentes
 + Uso de Ansible para comandos específicos 
 
-##### 3.2.3 Definición 
+##### 3.2.3 Aplicación 
+
+
 
 #### 3.3 Rabbit 
 
