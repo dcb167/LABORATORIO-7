@@ -23,6 +23,13 @@
 
 ##### 3.1.3 Aplicación 
 
+<img width="302" height="122" alt="image" src="https://github.com/user-attachments/assets/ac11a45a-63b3-4406-8e81-f6f35979c644" /></br>
+
+<img width="563" height="212" alt="image" src="https://github.com/user-attachments/assets/47f9d2eb-a854-4a96-a8e8-608285fd8fe3" /></br>
+
+<img width="580" height="99" alt="image" src="https://github.com/user-attachments/assets/176e28f4-0803-4711-932e-72c23bd3f63f" /></br>
+
+
 
 
 #### 3.2 Ansible 
