@@ -19,7 +19,9 @@
 + Plan de Ejecución
 + Gestión Estatal
 + Proveedores
-+ Gráfico de Recursos 
++ Gráfico de Recursos
+
+##### 3.1.3 Aplicación 
 
 #### 3.2 Ansible 
 
