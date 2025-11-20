@@ -53,6 +53,9 @@
 
 <strong>Figura 7.</strong> Verificación de Instalación de Terraform desde el cmd.
 
+<img width="515" height="61" alt="image" src="https://github.com/user-attachments/assets/9568ca46-691a-4c84-8522-c2e28e6ac848" /></br>
+
+<strong>Figura 8.</strong> Instalar la CLI de AWS desde la página web.
 
 
 
