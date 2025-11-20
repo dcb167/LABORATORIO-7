@@ -25,7 +25,7 @@
 
 <img width="302" height="122" alt="image" src="https://github.com/user-attachments/assets/ac11a45a-63b3-4406-8e81-f6f35979c644" /></br>
 
-<strong>Figura 1.</strong> Instalación de quemu.
+<strong>Figura 1.</strong> Instalación de Terraform desde la página web.
 
 <img width="563" height="212" alt="image" src="https://github.com/user-attachments/assets/47f9d2eb-a854-4a96-a8e8-608285fd8fe3" /></br>
 
