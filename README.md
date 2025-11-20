@@ -43,15 +43,15 @@
 
 <img width="584" height="240" alt="image" src="https://github.com/user-attachments/assets/4ea2b84b-1c49-47f3-8af5-2abfb9760da4" /></br>
 
-<strong>Figura 5.</strong> Instalación de quemu.
+<strong>Figura 5.</strong> Editar las variables de entorno.
 
 <img width="563" height="530" alt="image" src="https://github.com/user-attachments/assets/c0767898-a9fb-4caa-ade0-b5f81d169ba9" /></br>
 
-<strong>Figura 6.</strong> Instalación de quemu.
+<strong>Figura 6.</strong> Crear una variable de entorno (Path).
 
 <img width="295" height="59" alt="image" src="https://github.com/user-attachments/assets/81b8a271-3431-4a93-a322-c203ffe37512" /></br>
 
-<strong>Figura 7.</strong> Instalación de quemu.
+<strong>Figura 7.</strong> Verificación de Instalación de Terraform desde el cmd.
 
 
 
