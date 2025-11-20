@@ -57,6 +57,22 @@
 
 <strong>Figura 8.</strong> Instalar la CLI de AWS desde la página web.
 
+<img width="495" height="385" alt="image" src="https://github.com/user-attachments/assets/3ff97fee-735b-4f04-82fd-ac7e6529f7e1" /></br>
+
+<strong>Figura 9.</strong> Instalar la CLI de AWS desde la página web.
+
+<img width="490" height="388" alt="image" src="https://github.com/user-attachments/assets/855d0331-42b8-49f4-a9d9-0e212593a986" /></br>
+
+<strong>Figura 10.</strong> Instalar la CLI de AWS desde la página web.
+
+<img width="486" height="380" alt="image" src="https://github.com/user-attachments/assets/7fa64d42-5c54-47fc-8868-25e5d96304b2" /></br>
+
+<strong>Figura 11.</strong> Instalar la CLI de AWS desde la página web.
+
+<img width="492" height="383" alt="image" src="https://github.com/user-attachments/assets/947bc145-980b-44ee-9961-e939845f7e3b" /></br>
+
+<strong>Figura 12.</strong> Instalar la CLI de AWS desde la página web.
+
 
 
 #### 3.2 Ansible 
