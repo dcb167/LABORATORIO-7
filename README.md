@@ -39,7 +39,7 @@
 
 <img width="409" height="482" alt="image" src="https://github.com/user-attachments/assets/03d31a1c-dd44-4317-bf21-e3841b9bdcaa" /></br>
 
-<strong>Figura 4.</strong> Instalación de quemu.
+<strong>Figura 4.</strong> Configuración de las variables de entorno en Windows.
 
 <img width="584" height="240" alt="image" src="https://github.com/user-attachments/assets/4ea2b84b-1c49-47f3-8af5-2abfb9760da4" /></br>
 
