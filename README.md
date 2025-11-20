@@ -73,6 +73,10 @@
 
 <strong>Figura 12.</strong> Proceso de Instalación de la CLI de AWS (4).
 
+<img width="460" height="54" alt="image" src="https://github.com/user-attachments/assets/b2e7613f-9539-486d-bdfa-94dabddccc65" /></br>
+
+<strong>Figura 13.</strong> Verificación de la Instalación de la CLI de AWS desde el cmd.
+
 
 #### 3.2 Ansible 
 
