@@ -23,6 +23,8 @@
 
 ##### 3.1.3 Aplicación 
 
++ A continuación, se podrá evidenciar cada uno de los pasos para poder realizar un programa de prueba en Terraform:
+
 <img width="302" height="122" alt="image" src="https://github.com/user-attachments/assets/ac11a45a-63b3-4406-8e81-f6f35979c644" /></br>
 
 <strong>Figura 1.</strong> Instalación de Terraform desde la página web.
