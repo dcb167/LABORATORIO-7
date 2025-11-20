@@ -83,9 +83,19 @@
 
 <strong>Figura 14.</strong> Crear una nueva cuenta en AWS.
 
-
-
 #### 3.2 Ansible 
+
+##### 3.2.1 Definición
+
++ Se le conoce como un motor open source, el cual, genera una automatización de un cúmulo de procesos informáticos. Algunos de ellos: La preparación de la infraestructura, la gestión de la configuración, la implementación de las aplicaciones y la organización de los sistemas [2].
+
+##### 3.2.2 Funcionamiento
+
++ Módulos
++ Automatización sin agentes
++ Uso de Ansible para comandos específicos 
+
+##### 3.2.3 Definición 
 
 #### 3.3 Rabbit 
 
