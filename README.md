@@ -69,22 +69,11 @@
 
 <strong>Figura 16.</strong> Visualización de la Implementación en Python (16).
 
++ Se puede visualizar, que el código muestra un recuento de las imágenes procesadas. Para este caso, identificó que se pusieron 3 imágenes con estado de ánimo "Feliz".
 
+<img width="406" height="190" alt="image" src="https://github.com/user-attachments/assets/c7bcb2b3-6489-45e1-b832-1ea86400c4d4" /></br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<strong>Figura 17.</strong> Visualización de la Implementación en Python (17).
 
 ### 2. Desarrollo de un ETL 
 
