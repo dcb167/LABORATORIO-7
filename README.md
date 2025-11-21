@@ -136,6 +136,8 @@
 
 #### 3.5 Análisis del cuadro de Garner referente a tecnologías orientadas a la nube.
 
+
+
 ### 4. Propuesta de Solución ante MinCiencias de IA
 
 #### 4.1 Descripción de la propuesta 
