@@ -253,5 +253,8 @@
 
 [3] 	Anónimo, «RabbitMQ,» [En línea]. Available: https://www.rabbitmq.com/. [Último acceso: 19 Noviembre 2025].
 
+[4] 	Anónimo, «RabbitMQ,» [En línea]. Available: https://www.rabbitmq.com/. [Último acceso: 19 Noviembre 2025].
+
+
 
 
