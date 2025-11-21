@@ -117,12 +117,19 @@
 
 ##### 3.3.1 Definición
 
+
+
 ##### 3.3.2 Definición
+
 
 ##### 3.3.3 Aplicación
 
-
 #### 3.4 Tecnologías OpenStack para la generación de nubes propias
+
++ <strong>Nova:</strong> Es el controlador de la estructura de cómputo en la nube y la parte principal del sistema laaS.
+  
++ <strong>Glance (Image Service):</strong> Es el controlador de la estructura de cómputo en la nube y la parte principal del sistema laaS
+
 
 #### 3.5 Análisis del cuadro de Garner referente a tecnologías orientadas a la nube.
 
