@@ -163,9 +163,9 @@
 
 ##### 3.2.2 Funcionamiento
 
-+ Módulos
-+ Automatización sin agentes
-+ Uso de Ansible para comandos específicos 
++ Módulos.
++ Automatización sin agentes.
++ Uso de Ansible para comandos específicos. 
 
 ##### 3.2.3 Aplicación 
 
@@ -197,7 +197,7 @@
   
 + Enfoque en privacidad.
   
-+ Interfaz minimalista
++ Interfaz minimalista.
 
 #### 3.4 Tecnologías OpenStack para la generación de nubes propias
 
@@ -226,5 +226,8 @@
 [1] 	Anónimo, «¿Qué es Terraform? Empieza con la Infraestructura como Código,» 29 Julio 2024. [En línea]. Available: HashiCorp Configuration Language. [Último acceso: 19 Noviembre 2025].
 
 [2] 	Anónimo, «Ansible: la herramienta de automatización preferida por los DevOps,» 9 Mayo 2025. [En línea]. Available: https://datascientest.com/es/ansible-la-herramienta-de-automatizacion-preferida-por-los-devops. [Último acceso: 19 Noviembre 2025].
+
+[3] 	Anónimo, «RabbitMQ,» [En línea]. Available: https://www.rabbitmq.com/. [Último acceso: 19 Noviembre 2025].
+
 
 
