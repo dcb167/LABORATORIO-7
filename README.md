@@ -99,11 +99,11 @@
 
 <img width="699" height="210" alt="image" src="https://github.com/user-attachments/assets/810aab5d-8e5c-41a1-8b5c-97469d5321e3" /></br>
 
-<strong>Figura 15.</strong> Crear una nueva cuenta en AWS.
+<strong>Figura 15.</strong> Actualización de los paquetes en Ubuntu.
 
 <img width="1081" height="553" alt="image" src="https://github.com/user-attachments/assets/e607d68e-7a82-4b3b-8293-b4f391565c5a" /></br>
 
-<strong>Figura 16.</strong> Crear una nueva cuenta en AWS.
+<strong>Figura 16.</strong> Instalación del paquete de Ansible en Ubuntu.
 
 <img width="1025" height="197" alt="image" src="https://github.com/user-attachments/assets/1b52cf36-9884-47b5-8fae-a3d2e7241a46" /></br>
 
