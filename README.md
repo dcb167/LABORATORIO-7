@@ -241,6 +241,14 @@
 
 #### 4.1 Descripción de la propuesta 
 
++ Con el objetivo de desarrollar una implementación de infraestructura científica y tecnología robusta de alto rendimiento. Se propone a MinCiencias la realización de tres ejes importantes :
+
+<strong>1:</strong> La limpieza de los datos de forma automatizada.
+
+<strong>2:</strong> La integración de procesos ETL en los datos.
+
+<strong>3:</strong> Medidas de Protección de los datos. 
+
 #### 4.2 Diagrama de Flujo 
 
 #### 4.3 Tecnologías futuras a aplicar 
