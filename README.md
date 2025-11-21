@@ -217,7 +217,25 @@
 
 ##### 3.5.2 Fases
 
-###### 3.5.2.1 <strong> Innovación disparatada (Innovation Trigger):</strong> Tecnologías incipientes con alto potencial pero poca adopción.
+###### 3.5.2.1 <strong> Innovación disparatada (Innovation Trigger):</strong> 
+
++ Tecnologías incipientes con alto potencial pero poca adopción.
+
+###### 3.5.2.2 <strong> Pico de expectativas infladas (Peak of Inflated Expectations):</strong> 
+
++ Desafíos técnicos (seguridad, latencia).
+
+###### 3.5.2.3 <strong> Abismo de desilusión (Trough of Disillusionment): </strong> 
+
++ Se evidencian limitaciones y se ajustan expectativas.
+
+###### 3.5.2.4 <strong> Pendiente de consolidación (Slope of Enlightenment):</strong> 
+
++  Mejora en buenas prácticas y adopción empresarial.
+
+###### 3.5.2.5 <strong> Meseta de productividad (Plateau of Productivity):</strong> 
+
++ Tecnologías maduras con ROI demostrado.
 
 ### 4. Propuesta de Solución ante MinCiencias de IA
 
