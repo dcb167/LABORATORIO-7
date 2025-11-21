@@ -111,16 +111,11 @@
 
 <img width="666" height="417" alt="image" src="https://github.com/user-attachments/assets/1b32ee61-80de-4bd1-98a5-0046902e2950" /></br>
 
-<strong>Figura 18.</strong> Crear una contraseña privada.
-
-
-
-
-
-
-
+<strong>Figura 18.</strong> Crear una contraseña SSH pública y privada.
 
 #### 3.3 Rabbit 
+
+
 
 #### 3.4 Tecnologías OpenStack para la generación de nubes propias
 
