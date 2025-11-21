@@ -7,35 +7,67 @@
 
 <img width="334" height="252" alt="image" src="https://github.com/user-attachments/assets/a5ae9d9f-12e3-45ac-b2ab-5b675f00a9ff" /></br>
 
+<strong>Figura 1.</strong> Visualización de la Implementación en Python (1).
+
 <img width="342" height="131" alt="image" src="https://github.com/user-attachments/assets/e5853abc-edf2-4393-af53-c324073a72a0" /></br>
+
+<strong>Figura 2.</strong> Visualización de la Implementación en Python (2).
 
 <img width="561" height="243" alt="image" src="https://github.com/user-attachments/assets/bdbec652-7a5b-40c3-a997-094ed9d3c47b" /></br>
 
+<strong>Figura 3.</strong> Visualización de la Implementación en Python (3).
+
 <img width="486" height="213" alt="image" src="https://github.com/user-attachments/assets/304262d4-100f-4d36-a213-e2b1772e691f" /></br>
+
+<strong>Figura 4.</strong> Visualización de la Implementación en Python (4).
 
 <img width="554" height="239" alt="image" src="https://github.com/user-attachments/assets/f62b4007-adb5-4eea-8a3a-5a40e8e84374" /></br>
 
+<strong>Figura 5.</strong> Visualización de la Implementación en Python (5).
+
 <img width="238" height="191" alt="image" src="https://github.com/user-attachments/assets/f37301ae-4b80-47ec-9d0a-f51948717543" /></br>
+
+<strong>Figura 6.</strong> Visualización de la Implementación en Python (6).
 
 <img width="715" height="262" alt="image" src="https://github.com/user-attachments/assets/19d47c89-3617-4052-bed8-b7cd797dbbef" /></br>
 
+<strong>Figura 7.</strong> Visualización de la Implementación en Python (7).
+
 <img width="661" height="258" alt="image" src="https://github.com/user-attachments/assets/2cb0e990-7911-4c8b-a061-5df2fb0ac552" /></br>
+
+<strong>Figura 8.</strong> Visualización de la Implementación en Python (8).
 
 <img width="615" height="211" alt="image" src="https://github.com/user-attachments/assets/b8d3cf1d-5485-417e-8976-07a6c0c823e3" /></br>
 
+<strong>Figura 9.</strong> Visualización de la Implementación en Python (9).
+
 <img width="841" height="214" alt="image" src="https://github.com/user-attachments/assets/371c7468-c8a2-44fe-90dc-942e5cca637a" /></br>
+
+<strong>Figura 10.</strong> Visualización de la Implementación en Python (10).
 
 <img width="464" height="250" alt="image" src="https://github.com/user-attachments/assets/a8c4b58c-ffa3-406b-8367-f8bb550eac02" /></br>
 
+<strong>Figura 11.</strong> Visualización de la Implementación en Python (11).
+
 <img width="292" height="217" alt="image" src="https://github.com/user-attachments/assets/8be260e5-a97e-4ead-b94f-1188048feac4" /></br>
+
+<strong>Figura 12.</strong> Visualización de la Implementación en Python (12).
 
 <img width="347" height="245" alt="image" src="https://github.com/user-attachments/assets/eed5b8d5-c1e0-4a6b-9d9d-a8fdc49fb009" /></br>
 
+<strong>Figura 13.</strong> Visualización de la Implementación en Python (13).
+
 <img width="635" height="235" alt="image" src="https://github.com/user-attachments/assets/e71f2e35-5650-495a-a361-016f006d8cac" /></br>
+
+<strong>Figura 14.</strong> Visualización de la Implementación en Python (14).
 
 <img width="823" height="252" alt="image" src="https://github.com/user-attachments/assets/2470fca4-64bc-4aac-bad9-4930ee9c9d2a" /></br>
 
+<strong>Figura 15.</strong> Visualización de la Implementación en Python (15).
+
 <img width="814" height="108" alt="image" src="https://github.com/user-attachments/assets/4e94268e-e6c0-4657-ab60-59d45e31046e" /></br>
+
+<strong>Figura 16.</strong> Visualización de la Implementación en Python (16).
 
 
 
