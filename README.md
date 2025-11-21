@@ -211,7 +211,13 @@
 
 #### 3.5 Análisis del cuadro de Garner referente a tecnologías orientadas a la nube.
 
+##### 3.5.1 Definición
 
++ El Cuadro de Garner (Gartner Hype Cycle) es una herramienta gráfica utilizada para representar la madurez, adopción y aplicación comercial de tecnologías emergentes. En el contexto de las tecnologías orientadas a la nube, el análisis del Hype Cycle de Gartner permite identificar en qué fase se encuentran las distintas soluciones y su potencial impacto en el mercado [4].
+
+##### 3.5.2 Fases
+
+###### 3.5.2.1 <strong> Innovación disparatada (Innovation Trigger):</strong> Tecnologías incipientes con alto potencial pero poca adopción.
 
 ### 4. Propuesta de Solución ante MinCiencias de IA
 
