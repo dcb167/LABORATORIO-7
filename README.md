@@ -189,7 +189,15 @@
 
 ##### 3.3.1 Definición
 
++ Es un asistente personal impulsado por inteligencia artificial. Este dispositivo portátil, está diseñado para realizar tareas mediante comandos de voz o texto, interactuando con aplicaciones y servicios en lugar de depender de un smartphone [3].
 
+##### 3.3.2 Características 
+
++ Asistente de IA.
+  
++ Enfoque en privacidad.
+  
++ Interfaz minimalista
 
 #### 3.4 Tecnologías OpenStack para la generación de nubes propias
 
