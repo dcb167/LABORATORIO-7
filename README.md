@@ -5,6 +5,54 @@
 
 + A continuación se podrá  evidenciar la implementación del Análisis de sentimientos por medio imágenes, usando mediapipe, hilos, mútex y semaforización, donde se detectan 3 sentimientos(Feliz; Bravo y Triste)
 
+<img width="334" height="252" alt="image" src="https://github.com/user-attachments/assets/a5ae9d9f-12e3-45ac-b2ab-5b675f00a9ff" /></br>
+
+<img width="342" height="131" alt="image" src="https://github.com/user-attachments/assets/e5853abc-edf2-4393-af53-c324073a72a0" /></br>
+
+<img width="561" height="243" alt="image" src="https://github.com/user-attachments/assets/bdbec652-7a5b-40c3-a997-094ed9d3c47b" /></br>
+
+<img width="486" height="213" alt="image" src="https://github.com/user-attachments/assets/304262d4-100f-4d36-a213-e2b1772e691f" /></br>
+
+<img width="554" height="239" alt="image" src="https://github.com/user-attachments/assets/f62b4007-adb5-4eea-8a3a-5a40e8e84374" /></br>
+
+<img width="238" height="191" alt="image" src="https://github.com/user-attachments/assets/f37301ae-4b80-47ec-9d0a-f51948717543" /></br>
+
+<img width="715" height="262" alt="image" src="https://github.com/user-attachments/assets/19d47c89-3617-4052-bed8-b7cd797dbbef" /></br>
+
+<img width="661" height="258" alt="image" src="https://github.com/user-attachments/assets/2cb0e990-7911-4c8b-a061-5df2fb0ac552" /></br>
+
+<img width="615" height="211" alt="image" src="https://github.com/user-attachments/assets/b8d3cf1d-5485-417e-8976-07a6c0c823e3" /></br>
+
+<img width="841" height="214" alt="image" src="https://github.com/user-attachments/assets/371c7468-c8a2-44fe-90dc-942e5cca637a" /></br>
+
+<img width="464" height="250" alt="image" src="https://github.com/user-attachments/assets/a8c4b58c-ffa3-406b-8367-f8bb550eac02" /></br>
+
+<img width="292" height="217" alt="image" src="https://github.com/user-attachments/assets/8be260e5-a97e-4ead-b94f-1188048feac4" /></br>
+
+<img width="347" height="245" alt="image" src="https://github.com/user-attachments/assets/eed5b8d5-c1e0-4a6b-9d9d-a8fdc49fb009" /></br>
+
+<img width="635" height="235" alt="image" src="https://github.com/user-attachments/assets/e71f2e35-5650-495a-a361-016f006d8cac" /></br>
+
+<img width="823" height="252" alt="image" src="https://github.com/user-attachments/assets/2470fca4-64bc-4aac-bad9-4930ee9c9d2a" /></br>
+
+<img width="814" height="108" alt="image" src="https://github.com/user-attachments/assets/4e94268e-e6c0-4657-ab60-59d45e31046e" /></br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 2. Desarrollo de un ETL 
 
