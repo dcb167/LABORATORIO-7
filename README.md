@@ -133,4 +133,6 @@
 
 [1] 	Anónimo, «¿Qué es Terraform? Empieza con la Infraestructura como Código,» 29 Julio 2024. [En línea]. Available: HashiCorp Configuration Language. [Último acceso: 19 Noviembre 2025].
 
+[2] 	Anónimo, «Ansible: la herramienta de automatización preferida por los DevOps,» 9 Mayo 2025. [En línea]. Available: https://datascientest.com/es/ansible-la-herramienta-de-automatizacion-preferida-por-los-devops. [Último acceso: 19 Noviembre 2025].
+
 
