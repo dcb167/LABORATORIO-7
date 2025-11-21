@@ -128,8 +128,11 @@
 
 + <strong>Nova:</strong> Es el controlador de la estructura de cómputo en la nube y la parte principal del sistema laaS.
   
-+ <strong>Glance (Image Service):</strong> Es el controlador de la estructura de cómputo en la nube y la parte principal del sistema laaS
++ <strong>Glance (Image Service):</strong> Proporciona servicios para el registro y la entrega de imágenes de máquinas virtuales.
+  
++ <strong>Cinder(Block Storage):</strong> Servicio de almacenamiento por bloques que proporciona recursos de almacenamiento.
 
++ <strong>Neutron(Networking):</strong> Se le conoce como el servicio que permite a los usuarios crear y administrar sus propias redes virtuales.
 
 #### 3.5 Análisis del cuadro de Garner referente a tecnologías orientadas a la nube.
 
