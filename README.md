@@ -249,6 +249,10 @@
 
 <strong>3:</strong> Medidas de Protección de los datos. 
 
++ En primer lugar, el lograr una limpieza de los datos de forma automatizada es un gran acierto. Esto, debido a que permite la mejora en la precisión de los datos, la eficiencia y el cumplimiento normativo de los mismos.
+  
++ En segundo lugar, 
+
 #### 4.2 Diagrama de Flujo 
 
 #### 4.3 Tecnologías futuras a aplicar 
