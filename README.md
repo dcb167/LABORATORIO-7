@@ -3,6 +3,9 @@
 
 ### 1. Análisis de Sentimientos por Imágenes
 
++ A continuación se podrá  evidenciar la implementación del Análisis de sentimientos por medio imágenes, usando mediapipe, hilos, mútex y semaforización, donde se detectan 3 sentimientos(Feliz; Bravo y Triste)
+
+
 ### 2. Desarrollo de un ETL 
 
 ### 3. Exploración de Tecnologías 
