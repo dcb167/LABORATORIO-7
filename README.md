@@ -107,11 +107,11 @@
 
 <img width="1025" height="197" alt="image" src="https://github.com/user-attachments/assets/1b52cf36-9884-47b5-8fae-a3d2e7241a46" /></br>
 
-<strong>Figura 17.</strong> Crear una nueva cuenta en AWS.
+<strong>Figura 17.</strong> Verificación de la Instalación de Ansible en Ubuntu.
 
 <img width="666" height="417" alt="image" src="https://github.com/user-attachments/assets/1b32ee61-80de-4bd1-98a5-0046902e2950" /></br>
 
-<strong>Figura 18.</strong> Crear una nueva cuenta en AWS.
+<strong>Figura 18.</strong> Crear una contraseña privada.
 
 
 
