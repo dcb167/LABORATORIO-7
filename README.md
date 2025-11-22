@@ -77,15 +77,17 @@
 
 ### 2. Desarrollo de un ETL 
 
-+ En primer lugar, se debe instalar algunas dependencias para poder trabajar con la Base de Datos de Sensores. Para este caso, se trabajará con la primera hoja del archivo. De tal forma, que el primer paso que es la instalación de las dependencias se podrá visualizar enseguida:
++ En primer lugar, se debe instalar algunas dependencias para poder trabajar con la Base de Datos de Sensores. Para este caso, se trabajará con la primera hoja del archivo. De tal forma, que el primer paso que es la instalación de las dependencias necesarias:
   
 <img width="504" height="261" alt="image" src="https://github.com/user-attachments/assets/8a20f3d8-3a75-4a5d-aef4-eb689164954f" />
 
-<strong>Figura 18.</strong> Instalación de la librería openpyxl en el terminal de Windows.
+<strong>Figura 18.</strong> Instalación de la librería de pandas en el terminal de Windows.
 
 <img width="493" height="152" alt="image" src="https://github.com/user-attachments/assets/a3d27550-f821-4f5c-8a41-04362dd8d4d1" />
 
-<strong>Figura 19.</strong> Instalación de la librería de pandas en el terminal de Windows.
+<strong>Figura 19.</strong> Instalación de la librería de openpyxl en el terminal de Windows.
+
+
 
 ### 3. Exploración de Tecnologías 
 
