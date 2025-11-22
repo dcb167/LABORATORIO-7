@@ -255,6 +255,12 @@
 
 #### 4.2 Diagrama de Bloques 
 
+<img width="509" height="606" alt="image" src="https://github.com/user-attachments/assets/c5009a71-5731-4543-ab54-a52576d76555" /></br>
+
+<strong>Figura 36.</strong> Implementación del Diagrama de Bloques para MinCiencias de IA.
+
+
+
 #### 4.3 Tecnologías futuras a aplicar 
 
 ### Referencias 
