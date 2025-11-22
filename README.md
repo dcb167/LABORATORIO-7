@@ -87,15 +87,21 @@
 
 <strong>Figura 19.</strong> Instalación de la librería de openpyxl en el terminal de Windows.
 
-+ El primer paso, es la extracción de los datos en un proceso ETL. Para ello, lo primero que se debe realizar es la lectura de los mismos en la BD_SENSORES. Para ello, se emplearán las siguientes líneas de código que permitirán realizar el proceso.
++ El primer paso, es la extracción de los datos en un proceso ETL. Para ello, lo primero que se debe realizar es la lectura de los datos en la BD_SENSORES. Para ello, se emplearán las siguientes líneas de código que permitirán realizar el proceso de la siguiente forma:
 
-    import pandas as pd
+      import pandas as pd
 
-    df=pd.read_excel('BD_SENSORES.xlsx',sheet_name='SENP1')
+      df=pd.read_excel('BD_SENSORES.xlsx',sheet_name='SENP1')
 
-    print(df.head())
+      print(df.head())
   
-+ Lo que se obtiene al ejecutar lo anterior es la visualización de la primera hoja de la base de datos como se puede evidenciar a continuación: 
++ Lo que se obtiene al ejecutar lo anterior, es la visualización de la primera hoja de la base de datos como se puede evidenciar a continuación:
+
+<img width="494" height="134" alt="image" src="https://github.com/user-attachments/assets/9060f8b3-55f5-496b-98ba-8ca422ac0bfa" /></br>
+
+<strong>Figura 20.</strong> Visualización en el terminal de la lectura de los datos de la hoja denominada "SENP1".
+
+
 
 
 
