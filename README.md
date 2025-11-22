@@ -251,17 +251,17 @@
 
 + En primer lugar, el lograr una limpieza de los datos de forma automatizada es un gran acierto. Esto, debido a que permite la mejora en la precisión de los datos, la eficiencia y el cumplimiento normativo de los mismos.
   
-+ En segundo lugar, 
++ En segundo lugar, la integración de procesos ETL en los datos permitirá consolidar los datos para un almacén de datos unificado. A su vez, facilitará la toma de decisiones dependiendo el objetivo que se desee ejecutar.
+  
++ En tercer lugar, la medida de seguridad de los datos son clave para garantizar la confidencialidad, integridad y disponibilidad de los sistemas, adaptándose al contexto (web, IoT, scripting, entre otros. 
 
 #### 4.2 Diagrama de Bloques 
 
-+ A continuación, se puede visualizar el Diagrama de Bloques propuesto que consta de tres fases importantes. Las cuales, fueron delimitadas en el iteral 4.1. En cada una, se propone un aplicativo para poder realizar su ejecución: 
++ A continuación, se puede visualizar el Diagrama de Bloques propuesto que consta de tres fases importantes. Las cuales, fueron delimitadas en el iteral 4.1. En cada una, se propone un aplicativo para poder realizar su ejecución. Para el primer iteral se propone Azure, para el segundo Python y el último Linux. 
   
 <img width="509" height="606" alt="image" src="https://github.com/user-attachments/assets/c5009a71-5731-4543-ab54-a52576d76555" /></br>
 
 <strong>Figura 36.</strong> Implementación del Diagrama de Bloques para MinCiencias de IA.
-
-
 
 #### 4.3 Tecnologías futuras a aplicar 
 
