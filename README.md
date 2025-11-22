@@ -101,6 +101,17 @@
 
 <strong>Figura 20.</strong> Visualización en el terminal de la lectura de los datos de la hoja denominada "SENP1".
 
++ El segundo paso, es la Transformación de los Datos(Limpieza y estructuración). Motivo por el cual, se puede visualizar que existen algunas celdas vacías en el Dataframe. De tal forma que, se procedió a reemplazar dichas celdas con el valor de 0 añadiendo la siguiente línea de código:
+
+      df_reemplazado = df.fillna(0)
+  
++ Lo que se obtiene al ejecutar lo anterior, es la visualización de la primera hoja de la base de datos pero con las celdas que contenían Nan ahora sustituidas con el valor de 0:
+
+<img width="464" height="188" alt="image" src="https://github.com/user-attachments/assets/a2326a61-592a-4994-8381-11e30a35a2a5" /></br>
+
+<strong>Figura 20.</strong> Visualización en el terminal de la lectura de los datos de la hoja denominada "SENP1" con el ajuste de algunas celdas por 0.
+
+
 
 
 
