@@ -247,7 +247,7 @@
 
 <strong>2:</strong> La integración de procesos ETL en los datos.
 
-<strong>3:</strong> Medidas de Protección de los datos. 
+<strong>3:</strong> Medidas de Seguridad de los datos. 
 
 + En primer lugar, el lograr una limpieza de los datos de forma automatizada es un gran acierto. Esto, debido a que permite la mejora en la precisión de los datos, la eficiencia y el cumplimiento normativo de los mismos.
   
@@ -255,6 +255,8 @@
 
 #### 4.2 Diagrama de Bloques 
 
++ A continuación, se puede visualizar el Diagrama de Bloques propuesto que consta de tres fases importantes. Las cuales, fueron delimitadas en el iteral 4.1. En cada una, se propone un aplicativo para poder realizar su ejecución: 
+  
 <img width="509" height="606" alt="image" src="https://github.com/user-attachments/assets/c5009a71-5731-4543-ab54-a52576d76555" /></br>
 
 <strong>Figura 36.</strong> Implementación del Diagrama de Bloques para MinCiencias de IA.
