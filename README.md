@@ -103,13 +103,52 @@
 
 + El segundo paso, es la Transformación de los Datos(Limpieza y estructuración). Motivo por el cual, se puede visualizar que existen algunas celdas vacías en el Dataframe. De tal forma que, se procedió a reemplazar dichas celdas con el valor de 0 añadiendo la siguiente línea de código:
 
-      df_reemplazado = df.fillna(0)
+      df_reemplazado_0 = df.fillna(0)
   
 + Lo que se obtiene al ejecutar lo anterior, es la visualización de la primera hoja de la base de datos pero con las celdas que contenían Nan ahora sustituidas con el valor de 0:
 
 <img width="464" height="188" alt="image" src="https://github.com/user-attachments/assets/a2326a61-592a-4994-8381-11e30a35a2a5" /></br>
 
 <strong>Figura 20.</strong> Visualización en el terminal de la lectura de los datos de la hoja denominada "SENP1" con el ajuste de algunas celdas por 0.
+
++ Seguido de ello, se puede organizar los datos menor a mayor de la siguiente forma:
+
+      df_ord_menor_a_mayor = df_reemplazado_0.sort_values(list(df_reemplazado_0.columns))
+
++ Lo que se obtiene al ejecutar lo anterior, es la visualización de la primera hoja de la base de datos ya organizadas de menor a mayor:
+
+<img width="445" height="171" alt="image" src="https://github.com/user-attachments/assets/5018b090-40c3-4647-9f00-3444cc3d281f" /></br>
+
+<strong>Figura 21.</strong> Visualización en el terminal de la lectura de los datos de la hoja denominada "SENP1" con el ajuste de los datos ordenados de menor a mayor.
+
+<img width="487" height="170" alt="image" src="https://github.com/user-attachments/assets/8f8de868-660d-494e-880d-3cd9eaa33a44" />
+
++ Por último, se realizó unas modificaciones al código con el objetivo de poder visualizar en streamlit los ajustes realizados a la BD de Sensores como se puede evidenciar enseguida:
+
+      st.subheader("Voltajes")
+      st.dataframe(df_ord_menor_a_mayor)
+
+      st.subheader("Despliegue")
+
+      columna_x = st.selectbox("Selecciona columna X:", df_ord_menor_a_mayor.columns)
+      columna_y = st.selectbox("Selecciona columna Y:", df_ord_menor_a_mayor.columns)
+
+      tipo_grafico = st.radio(
+            "Selecciona el tipo de gráfico:",
+            ('Líneas', 'Barras')
+      )
+
+      chart_data = df_ord_menor_a_mayor.set_index(columna_x)[columna_y]
+
+      st.subheader(f"Despliegue: Gráfico de {tipo_grafico}")
+
+      if tipo_grafico == 'Líneas':
+          st.line_chart(chart_data)
+
+      elif tipo_grafico == 'Barras':
+          st.bar_chart(chart_data)
+
+
 
 
 
