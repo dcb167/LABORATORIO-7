@@ -265,13 +265,13 @@
 
 #### 4.3 Tecnologías futuras a aplicar 
 
-- De acuerdo a lo anterior, se puede realizar la ejecución de la fase dos utilizando las siguientes bibliotecas en Python:
+* De acuerdo a lo anterior, se puede realizar la ejecución de la fase dos utilizando las siguientes bibliotecas en Python:
 + Pandas
 + Numpy
 + Matplotlib y Seaborn
 + Scikit-learn
 
-- A su vez, como herramienta de visualización de los datos se propone implementar el uso de streamlit como herramienta interactiva. 
+* A su vez, como herramienta de visualización de los datos se propone implementar el uso de streamlit como herramienta interactiva. 
 
 
 
