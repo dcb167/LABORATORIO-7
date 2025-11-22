@@ -265,6 +265,17 @@
 
 #### 4.3 Tecnologías futuras a aplicar 
 
+- De acuerdo a lo anterior, se puede realizar la ejecución de la fase dos utilizando las siguientes bibliotecas en Python:
++ Pandas
++ Numpy
++ Matplotlib y Seaborn
++ Scikit-learn
+
+- A su vez, como herramienta de visualización de los datos se propone implementar el uso de streamlit como herramienta interactiva. 
+
+
+
+
 ### Referencias 
 
 [1] 	Anónimo, «¿Qué es Terraform? Empieza con la Infraestructura como Código,» 29 Julio 2024. [En línea]. Available: HashiCorp Configuration Language. [Último acceso: 19 Noviembre 2025].
