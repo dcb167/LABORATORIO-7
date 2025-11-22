@@ -266,15 +266,21 @@
 #### 4.3 Tecnologías futuras a aplicar 
 
 De acuerdo a lo anterior, se puede realizar la ejecución de la fase dos utilizando las siguientes bibliotecas en Python:
-+ Pandas
-+ Numpy
-+ Matplotlib y Seaborn
-+ Scikit-learn
++ Pandas.
++ Numpy.
++ Matplotlib y Seaborn.
++ Scikit-learn.
 
 A su vez, como herramienta de visualización de los datos se propone implementar el uso de streamlit como herramienta interactiva. 
 
+Por último, la aplicación en Linux de lo mencionado a continuación:
 
-
++ Reconocimiento y escaneo (Footprinting).
++ Análisis de vulnerabilidades.
++ Monitoreo de red.
++ Tablas ARP y Mapeo de Redes.
++ Ciberseguridad.
++ Firewall y Control de Tráfico. 
 
 ### Referencias 
 
