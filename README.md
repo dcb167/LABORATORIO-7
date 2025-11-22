@@ -79,13 +79,23 @@
 
 + En primer lugar, se debe instalar algunas dependencias para poder trabajar con la Base de Datos de Sensores. Para este caso, se trabajará con la primera hoja del archivo. De tal forma, que el primer paso que es la instalación de las dependencias necesarias:
   
-<img width="504" height="261" alt="image" src="https://github.com/user-attachments/assets/8a20f3d8-3a75-4a5d-aef4-eb689164954f" />
+<img width="504" height="261" alt="image" src="https://github.com/user-attachments/assets/8a20f3d8-3a75-4a5d-aef4-eb689164954f" /></br>
 
 <strong>Figura 18.</strong> Instalación de la librería de pandas en el terminal de Windows.
 
-<img width="493" height="152" alt="image" src="https://github.com/user-attachments/assets/a3d27550-f821-4f5c-8a41-04362dd8d4d1" />
+<img width="493" height="152" alt="image" src="https://github.com/user-attachments/assets/a3d27550-f821-4f5c-8a41-04362dd8d4d1" /></br>
 
 <strong>Figura 19.</strong> Instalación de la librería de openpyxl en el terminal de Windows.
+
++ El primer paso, es la extracción de los datos en un proceso ETL. Para ello, lo primero que se debe realizar es la lectura de los mismos en la BD_SENSORES. Para ello, se emplearán las siguientes líneas de código que permitirán realizar el proceso.
+
+    import pandas as pd
+
+    df=pd.read_excel('BD_SENSORES.xlsx',sheet_name='SENP1')
+
+    print(df.head())
+  
++ Lo que se obtiene al ejecutar lo anterior es la visualización de la primera hoja de la base de datos como se puede evidenciar a continuación: 
 
 
 
