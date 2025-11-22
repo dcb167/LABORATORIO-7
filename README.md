@@ -253,7 +253,7 @@
   
 + En segundo lugar, 
 
-#### 4.2 Diagrama de Flujo 
+#### 4.2 Diagrama de Bloques 
 
 #### 4.3 Tecnologías futuras a aplicar 
 
