@@ -121,9 +121,11 @@
 
 <strong>Figura 21.</strong> Visualización en el terminal de la lectura de los datos de la hoja denominada "SENP1" con el ajuste de los datos ordenados de menor a mayor.
 
-<img width="487" height="170" alt="image" src="https://github.com/user-attachments/assets/8f8de868-660d-494e-880d-3cd9eaa33a44" />
+<img width="487" height="170" alt="image" src="https://github.com/user-attachments/assets/8f8de868-660d-494e-880d-3cd9eaa33a44" /></br>
 
-+ Por último, se realizó unas modificaciones al código con el objetivo de poder visualizar en streamlit los ajustes realizados a la BD de Sensores como se puede evidenciar enseguida:
+<strong>Figura 22.</strong> Instalación del paquete de Streamlit.
+
++ Por último, se realizó unas modificaciones al código con el objetivo de poder visualizar de forma sencialla en streamlit los ajustes realizados a la BD de Sensores como se puede evidenciar enseguida:
 
       st.subheader("Voltajes")
       st.dataframe(df_ord_menor_a_mayor)
@@ -148,12 +150,13 @@
       elif tipo_grafico == 'Barras':
           st.bar_chart(chart_data)
 
+<img width="637" height="550" alt="image" src="https://github.com/user-attachments/assets/4cd04c10-8a04-469e-a360-a2f830058c9f" /></br>
 
+<strong>Figura 23.</strong> Visualización en Streamlit (1).
 
+<img width="627" height="381" alt="image" src="https://github.com/user-attachments/assets/a3c21a13-85dd-4cac-8516-bc643de9f41f" /></br>
 
-
-
-
+<strong>Figura 24.</strong> Visualización en Streamlit (2).
 
 ### 3. Exploración de Tecnologías 
 
@@ -177,61 +180,61 @@
 
 <img width="302" height="122" alt="image" src="https://github.com/user-attachments/assets/ac11a45a-63b3-4406-8e81-f6f35979c644" /></br>
 
-<strong>Figura 18.</strong> Instalación de Terraform desde la página web.
+<strong>Figura 25.</strong> Instalación de Terraform desde la página web.
 
 <img width="563" height="212" alt="image" src="https://github.com/user-attachments/assets/47f9d2eb-a854-4a96-a8e8-608285fd8fe3" /></br>
 
-<strong>Figura 19.</strong> Crear una carpeta denominada "Terraform" desde el terminal de Windows.
+<strong>Figura 26.</strong> Crear una carpeta denominada "Terraform" desde el terminal de Windows.
 
 <img width="580" height="99" alt="image" src="https://github.com/user-attachments/assets/176e28f4-0803-4711-932e-72c23bd3f63f" /></br>
 
-<strong>Figura 20.</strong> Visualización del contenido de la carpeta.
+<strong>Figura 27.</strong> Visualización del contenido de la carpeta.
 
 <img width="409" height="482" alt="image" src="https://github.com/user-attachments/assets/03d31a1c-dd44-4317-bf21-e3841b9bdcaa" /></br>
 
-<strong>Figura 21.</strong> Configuración de las variables de entorno en Windows.
+<strong>Figura 28.</strong> Configuración de las variables de entorno en Windows.
 
 <img width="584" height="240" alt="image" src="https://github.com/user-attachments/assets/4ea2b84b-1c49-47f3-8af5-2abfb9760da4" /></br>
 
-<strong>Figura 22.</strong> Editar las variables de entorno.
+<strong>Figura 29.</strong> Editar las variables de entorno.
 
 <img width="563" height="530" alt="image" src="https://github.com/user-attachments/assets/c0767898-a9fb-4caa-ade0-b5f81d169ba9" /></br>
 
-<strong>Figura 23.</strong> Crear una variable de entorno (Path).
+<strong>Figura 30.</strong> Crear una variable de entorno (Path).
 
 <img width="295" height="59" alt="image" src="https://github.com/user-attachments/assets/81b8a271-3431-4a93-a322-c203ffe37512" /></br>
 
-<strong>Figura 24.</strong> Verificación de Instalación de Terraform desde el cmd.
+<strong>Figura 31.</strong> Verificación de Instalación de Terraform desde el cmd.
 
 <img width="515" height="61" alt="image" src="https://github.com/user-attachments/assets/9568ca46-691a-4c84-8522-c2e28e6ac848" /></br>
 
-<strong>Figura 25.</strong> Instalar la CLI de AWS desde la página web.
+<strong>Figura 32.</strong> Instalar la CLI de AWS desde la página web.
 
 <img width="495" height="385" alt="image" src="https://github.com/user-attachments/assets/3ff97fee-735b-4f04-82fd-ac7e6529f7e1" /></br>
 
-<strong>Figura 26.</strong> Proceso de Instalación de la CLI de AWS (1).
+<strong>Figura 33.</strong> Proceso de Instalación de la CLI de AWS (1).
 
 <img width="490" height="388" alt="image" src="https://github.com/user-attachments/assets/855d0331-42b8-49f4-a9d9-0e212593a986" /></br>
 
-<strong>Figura 27.</strong> Proceso de Instalación de la CLI de AWS (2).
+<strong>Figura 34.</strong> Proceso de Instalación de la CLI de AWS (2).
 
 <img width="486" height="380" alt="image" src="https://github.com/user-attachments/assets/7fa64d42-5c54-47fc-8868-25e5d96304b2" /></br>
 
-<strong>Figura 28.</strong> Proceso de Instalación de la CLI de AWS (3).
+<strong>Figura 35.</strong> Proceso de Instalación de la CLI de AWS (3).
 
 <img width="492" height="383" alt="image" src="https://github.com/user-attachments/assets/947bc145-980b-44ee-9961-e939845f7e3b" /></br>
 
-<strong>Figura 29.</strong> Proceso de Instalación de la CLI de AWS (4).
+<strong>Figura 36.</strong> Proceso de Instalación de la CLI de AWS (4).
 
 <img width="460" height="54" alt="image" src="https://github.com/user-attachments/assets/b2e7613f-9539-486d-bdfa-94dabddccc65" /></br>
 
-<strong>Figura 30.</strong> Verificación de la Instalación de la CLI de AWS desde el cmd.
+<strong>Figura 37.</strong> Verificación de la Instalación de la CLI de AWS desde el cmd.
 
 + Para este paso, no permitió la creación del nuevo usuario. La página de AWS bloquea las cookies de terceros. Motivo por el cual, no fue posible realizar la primera configuración de Terraform. Únicamente se logró llegar a este paso. 
 
 <img width="696" height="604" alt="image" src="https://github.com/user-attachments/assets/70894688-60f9-4c21-9d70-d5e1c369fb36" /></br>
 
-<strong>Figura 31.</strong> Crear una nueva cuenta en AWS.
+<strong>Figura 38.</strong> Crear una nueva cuenta en AWS.
 
 #### 3.2 Ansible 
 
@@ -249,19 +252,19 @@
 
 <img width="699" height="210" alt="image" src="https://github.com/user-attachments/assets/810aab5d-8e5c-41a1-8b5c-97469d5321e3" /></br>
 
-<strong>Figura 32.</strong> Actualización de los paquetes en Ubuntu.
+<strong>Figura 39.</strong> Actualización de los paquetes en Ubuntu.
 
 <img width="1081" height="553" alt="image" src="https://github.com/user-attachments/assets/e607d68e-7a82-4b3b-8293-b4f391565c5a" /></br>
 
-<strong>Figura 33.</strong> Instalación del paquete de Ansible en Ubuntu.
+<strong>Figura 40.</strong> Instalación del paquete de Ansible en Ubuntu.
 
 <img width="1025" height="197" alt="image" src="https://github.com/user-attachments/assets/1b52cf36-9884-47b5-8fae-a3d2e7241a46" /></br>
 
-<strong>Figura 34.</strong> Verificación de la Instalación de Ansible en Ubuntu.
+<strong>Figura 41.</strong> Verificación de la Instalación de Ansible en Ubuntu.
 
 <img width="666" height="417" alt="image" src="https://github.com/user-attachments/assets/1b32ee61-80de-4bd1-98a5-0046902e2950" /></br>
 
-<strong>Figura 35.</strong> Crear una contraseña SSH pública y privada.
+<strong>Figura 42.</strong> Crear una contraseña SSH pública y privada.
 
 #### 3.3 Rabbit 
 
@@ -339,7 +342,7 @@
   
 <img width="509" height="606" alt="image" src="https://github.com/user-attachments/assets/c5009a71-5731-4543-ab54-a52576d76555" /></br>
 
-<strong>Figura 36.</strong> Implementación del Diagrama de Bloques para MinCiencias de IA.
+<strong>Figura 43.</strong> Implementación del Diagrama de Bloques para MinCiencias de IA.
 
 #### 4.3 Tecnologías futuras a aplicar 
 
